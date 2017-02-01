@@ -7,20 +7,11 @@ My profile: https://www.codewars.com/users/danlafreniere
 Join the fight.
 
 
-------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------
--------------------------------------               5KYU               -------------------------------------
-------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------
+#5HYU
 
---------------------------------------------------
------------------PETE THE BAKER-------------------
---------------------------------------------------
+##PETE THE BAKER
 
-
-THE PROBLEM: 
+###THE PROBLEM: 
 Pete likes to bake some cakes. He has some recipes and ingredients. Unfortunately he is not good in maths. Can you help him to find out, how many cakes he could bake considering his recipes?
 
 Write a function cakes(), which takes the recipe (object) and the available ingredients (also an object) and returns the maximum number of cakes Pete can bake (integer). For simplicity there are no units for the amounts (e.g. 1 lb of flour or 200 g of sugar are simply 1 or 200). Ingredients that are not present in the objects, can be considered as 0.
@@ -33,16 +24,16 @@ cakes({flour: 500, sugar: 200, eggs: 1}, {flour: 1200, sugar: 1200, eggs: 5, mil
 cakes({apples: 3, flour: 300, sugar: 150, milk: 100, oil: 100}, {sugar: 500, flour: 2000, milk: 2000});
 ```
 
-TAGS:
+###TAGS:
   - Algorithms
   
-PROBLEM HIGHLIGHTS/THINGS WORTH REMEMBERING:
+###PROBLEM HIGHLIGHTS/THINGS WORTH REMEMBERING:
   - Object property iteration
   - Object property value access
   - Number.MAX_SAFE_INTEGER
   - Math.floor();
   
-HOW I APPROACHED THE PROBLEM:
+###HOW I APPROACHED THE PROBLEM:
 
 The first thing we need to do is iterate through each item in the recipe (passed as an object parameter). This can be accomplished with a simple for loop: 
 
