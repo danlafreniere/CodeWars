@@ -1,4 +1,4 @@
-#5HYU
+#5KYU
 
 ##<a href="https://www.codewars.com/kata/525c65e51bf619685c000059">PETE THE BAKER</a> - JAVASCRIPT SOLUTION
 
