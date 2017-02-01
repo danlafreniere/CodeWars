@@ -1,6 +1,6 @@
 #5HYU
 
-##PETE THE BAKER
+##<a href="https://www.codewars.com/kata/525c65e51bf619685c000059">PETE THE BAKER</a> - JAVASCRIPT SOLUTION
 
 ###THE PROBLEM: 
 Pete likes to bake some cakes. He has some recipes and ingredients. Unfortunately he is not good in maths. Can you help him to find out, how many cakes he could bake considering his recipes?
